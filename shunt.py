@@ -1,3 +1,5 @@
+import math
+
 class Evaluate:
     @staticmethod
     def factorial(n):
